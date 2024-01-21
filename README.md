@@ -4,7 +4,7 @@
 
 ## Sunday  
 
-1. Relax and take it in. 
+Relax and get ready for brain pain. 
 
 ## Monday  
 
@@ -21,8 +21,6 @@
 If you need help, review this [rest CRUD chart](https://github.com/SEI-08-Bahrain/unit_2_project-/blob/main/rest-crud-chart.md)
 
 ## Tuesday   
-
-**Good Morning Developers**
 
 After today, there will be nothing new to learn about Express! Going forward, it's all about putting in repetitions. 
 
@@ -58,6 +56,47 @@ There will be 10 minutes to answer the above questions at the beginning of the l
 
 ## Wednesday  
 
-Let's take a moment to review this [guide to adding a feature to a web app](https://github.com/SEI-08-Bahrain/unit_2_project-/blob/main/guide-to-add-feature-to-web-app.md)
+Let's take a moment to review this [guide to adding a feature to a web app](https://github.com/SEI-08-Bahrain/unit_2_project-/blob/main/guide-to-add-feature-to-web-app.md) before we start. 
 
 ## Thursday 
+
+### TODAY'S REVIEW QUESTIONS
+
+**When do we use a leading slash in our paths?**
+
+
+1. *In the path of href & action attributes (HTML)? (yes/no)*
+
+  For example:
+  
+```
+  <a href="❓puppies">ALL PUPPIES</a>
+  <form action="❓puppies" method="POST">
+```
+
+
+2. *In the path of Express route definitions? (yes/no)*
+
+  For example:
+  
+```
+  router.get('❓puppies', puppiesCtrl.index);
+```
+
+
+3. *When responding from the controller with res.redirect? (yes/no)*
+
+  For example:
+
+```
+  res.redirect('❓puppies');
+```
+
+
+4. *When responding from the controller with res.render? (yes/no)*
+
+  For example:
+
+```
+  res.render('❓puppies/new');
+```
