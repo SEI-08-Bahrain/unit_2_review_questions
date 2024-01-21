@@ -1,12 +1,12 @@
-# Unit 2 Morning Review Questions 
+# Unit 2 Morning Review Questions - Week 1 
 
 <img src="https://i.imgur.com/u1TuBvv.jpg" width="70%"/>
 
-## Sunday - Week 1 
+## Sunday  
 
 1. Relax and take it in. 
 
-## Monday - Week 1 
+## Monday  
 
 ### TODAY'S REVIEW QUESTIONS
 
@@ -18,7 +18,9 @@
 
 4. In a Node module (file), what function is used to access another module's exported functionality?
 
-## Tuesday - Week 1 
+If you need help, review this [rest CRUD chart](https://github.com/SEI-08-Bahrain/unit_2_project-/blob/main/rest-crud-chart.md)
+
+## Tuesday   
 
 **Good Morning Developers**
 
@@ -54,4 +56,8 @@ Thus far, we have been able to READ To-Dos in our app, however, we can't go full
 
 There will be 10 minutes to answer the above questions at the beginning of the lesson but feel free to get a head start!
 
+## Wednesday  
 
+Let's take a moment to review this [guide to adding a feature to a web app](https://github.com/SEI-08-Bahrain/unit_2_project-/blob/main/guide-to-add-feature-to-web-app.md)
+
+## Thursday 
