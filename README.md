@@ -40,8 +40,6 @@ The above processing in Express is performed using middleware functions.
 Thus far, we have been able to READ To-Dos in our app, however, we can't go full-CRUD without the use of middleware. During today's lessons we’ll use middleware help us Create, Update & Delete To-Dos!  
 
 ### TODAY'S REVIEW QUESTIONS
-You probably already have this, but just in case... To use your browser as a notepad, put the following in your browser's address bar: `data:text/html, <html contenteditable style="font-family: Menlo, Consolas, monospace">`
-Copy/paste the following questions in the browser window:
 
 1. When an Express server is running, what is it waiting/listening for?
 2. What does the acronym CRUD stand for?
